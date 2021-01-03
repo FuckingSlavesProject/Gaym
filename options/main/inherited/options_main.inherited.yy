@@ -2,7 +2,7 @@
     "option_window_colour": {
         "Value": 4278190080
     },
-    "option_gameguid": "13dbab66-514a-48ea-a13f-db74055db0d0",
+    "option_gameguid": "e9a5ebf2-4ec5-4cb1-8842-cbd0ed44af2c",
     "option_game_speed": 60,
     "option_lastchanged": "01 January 1601 0:00:00",
     "option_sci_usesci": true

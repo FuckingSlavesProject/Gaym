@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "34e8cd10-d4dc-4c83-8d3a-9f3f43d6b97e",
+            "Value": {
+                "id": "f611dbef-4be9-4488-9f85-234ab77fe973",
+                "resourcePath": "sprites\\EbaniySprite\\EbaniySprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "371b18db-fa07-4f86-88cb-88f6423c6327",
             "Value": {
                 "id": "7cf80e52-1ca3-41ab-b1bd-82fd02a68c0a",

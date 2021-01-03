@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "ec17d1fa-edca-4e1a-8089-58bce543cf79",
+            "Value": {
+                "id": "dbd20f1f-b905-443c-b67c-55f9e1c8055d",
+                "resourcePath": "sprites\\stick\\stick.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "7978f1d8-d32b-4b62-a061-7fa2e3de0824",

@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "54561445-acc2-49b6-9d67-5edc71946854",
+            "Value": {
+                "id": "d5d9b4ec-4508-4bb0-9b88-aaae9ca0672d",
+                "resourcePath": "sprites\\spr_BillyPressed\\spr_BillyPressed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "65a15d9f-1f6a-4d65-afcd-3bfb2bcf5f03",
@@ -130,7 +138,7 @@
             "Key": "898b8287-3301-4d5d-9f44-941dc968223e",
             "Value": {
                 "id": "f7ad1dcb-b5ed-455a-afb7-a79a14e1e075",
-                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourcePath": "sprites\\spr_Billy\\spr_Billy.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -170,7 +178,7 @@
             "Key": "9a865750-353c-428a-a4b5-7a3b94896261",
             "Value": {
                 "id": "2003d6a5-6e7c-4724-98f5-477c902a4891",
-                "resourcePath": "sprites\\Plan\\Plan.yy",
+                "resourcePath": "sprites\\spr_Plan\\spr_Plan.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -223,14 +231,6 @@
             }
         },
         {
-            "Key": "bd729669-5718-4878-a0dd-fd387715c1e2",
-            "Value": {
-                "id": "2a329f5a-a966-44e5-b500-f77d403d0cdb",
-                "resourcePath": "sprites\\sprite3\\sprite3.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "4886fd0f-d3b9-41b7-81c7-a4907864db2d",
@@ -268,6 +268,22 @@
                 "id": "3ba727ff-965d-46fc-8696-eae439f9a32e",
                 "resourcePath": "sprites\\sprite0\\sprite0.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e8acb26c-d24f-40d0-8872-410b10091bdc",
+            "Value": {
+                "id": "3ac2cd68-570f-4335-bd1e-1720555bafe3",
+                "resourcePath": "objects\\BillyClicker\\BillyClicker.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f3fdbb1d-39dd-4cea-a92e-26e617a98879",
+            "Value": {
+                "id": "b698e4c9-ce7e-4909-a364-e3bddeb2c988",
+                "resourcePath": "objects\\ClickSystem\\ClickSystem.yy",
+                "resourceType": "GMObject"
             }
         },
         {

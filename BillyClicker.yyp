@@ -119,14 +119,6 @@
             }
         },
         {
-            "Key": "8145cd9a-912b-4c6d-8fc2-e5d7a969eaa4",
-            "Value": {
-                "id": "ee63f023-fb8e-43d5-bf9c-c4a5bc73842e",
-                "resourcePath": "rooms\\room0\\room0.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "05c5b3ee-c79f-434b-9b92-f00c168ed2a0",
@@ -175,6 +167,14 @@
             }
         },
         {
+            "Key": "9a865750-353c-428a-a4b5-7a3b94896261",
+            "Value": {
+                "id": "2003d6a5-6e7c-4724-98f5-477c902a4891",
+                "resourcePath": "sprites\\Plan\\Plan.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9fd4b520-e5e2-4e95-a7d1-6e978648f074",
             "Value": {
                 "id": "40dad0b5-aa54-4c04-b3fa-90be8199655e",
@@ -188,6 +188,14 @@
                 "id": "84ffa2ca-4c41-4b37-a644-5171a9a52a62",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a3b4ccc6-f066-4fc8-af06-608cd82a04e8",
+            "Value": {
+                "id": "1b8292aa-5bd4-4bae-b075-9299001c04ff",
+                "resourcePath": "objects\\obj_plan\\obj_plan.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -212,6 +220,14 @@
                 "id": "e5724756-427f-4307-81fe-da20a5f0c441",
                 "resourcePath": "views\\b1d76de1-d700-4f1e-8255-88cacc8e3128.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bd729669-5718-4878-a0dd-fd387715c1e2",
+            "Value": {
+                "id": "2a329f5a-a966-44e5-b500-f77d403d0cdb",
+                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -268,6 +284,14 @@
                 "id": "1cc92d3c-ec76-492e-94d5-2c73566a7126",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "fbd427cb-3700-48f3-b41e-a0bddb2288b0",
+            "Value": {
+                "id": "3420eedd-b811-4271-8f6f-fcf420c9a529",
+                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

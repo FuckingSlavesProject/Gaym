@@ -5,13 +5,13 @@
     "name": "obj_Up1",
     "eventList": [
         {
-            "id": "695b3887-b6f0-4099-a910-ebec1968012a",
+            "id": "dcffa7e3-22ac-49d5-9bf5-e6878652667e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
+            "enumb": 4,
+            "eventtype": 6,
             "m_owner": "7e01deba-7536-4cb3-a316-bf73b75e0c2d"
         }
     ],

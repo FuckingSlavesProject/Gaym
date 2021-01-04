@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "3809fc69-2c69-4669-bc32-48335c856b38",
+            "Value": {
+                "id": "0298bcba-f005-4acb-b304-4803f294a136",
+                "resourcePath": "sprites\\spr_billy0\\spr_billy0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
             "Value": {
                 "id": "80f0f858-3514-4f31-8ccb-c671c083de31",

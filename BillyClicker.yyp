@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "b92a565a-13a4-4879-8e39-55af3fe039ff",
+            "Value": {
+                "id": "81db0775-cc48-4a89-96e9-cb5d174eb22a",
+                "resourcePath": "objects\\obj_SlavesPerSecond\\obj_SlavesPerSecond.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "4886fd0f-d3b9-41b7-81c7-a4907864db2d",

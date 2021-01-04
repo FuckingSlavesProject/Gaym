@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "53708ac6-9d64-4ae9-beb5-d63c655722e9",
+            "Value": {
+                "id": "57d1a11d-b48c-4ef2-a334-188e266663b8",
+                "resourcePath": "sounds\\snd_clickcock0\\snd_clickcock0.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "54561445-acc2-49b6-9d67-5edc71946854",
             "Value": {
                 "id": "d5d9b4ec-4508-4bb0-9b88-aaae9ca0672d",

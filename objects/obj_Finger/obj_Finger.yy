@@ -1,8 +1,8 @@
 {
-    "id": "ec2f4a86-83d7-431c-acaf-384a13398209",
+    "id": "6c88bcb6-f1b0-495a-ad32-ceb0a5b73aef",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_LatexGlove",
+    "name": "obj_Finger",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "e2bda799-7c29-4811-ae83-2bfe2f9bb54f",
+    "spriteId": "47df6423-a83d-4e48-87a6-a66254888ece",
     "visible": true
 }

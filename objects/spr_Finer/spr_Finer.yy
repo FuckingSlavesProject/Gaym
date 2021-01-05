@@ -1,8 +1,8 @@
 {
-    "id": "ec2f4a86-83d7-431c-acaf-384a13398209",
+    "id": "6c88bcb6-f1b0-495a-ad32-ceb0a5b73aef",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_LatexGlove",
+    "name": "spr_Finer",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "e2bda799-7c29-4811-ae83-2bfe2f9bb54f",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

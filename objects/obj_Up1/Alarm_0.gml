@@ -7,10 +7,10 @@ with(ClickSystem) {
 	/// @DnDVersion : 1
 	/// @DnDHash : 7A61F3B2
 	/// @DnDParent : 2EDDCFC8
-	/// @DnDArgument : "score" "1"
+	/// @DnDArgument : "score" "0.1"
 	/// @DnDArgument : "score_relative" "1"
 	if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-	__dnd_score += real(1);
+	__dnd_score += real(0.1);
 }
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm

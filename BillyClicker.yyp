@@ -167,14 +167,6 @@
             }
         },
         {
-            "Key": "6c88bcb6-f1b0-495a-ad32-ceb0a5b73aef",
-            "Value": {
-                "id": "403ebe07-5f00-46d4-9902-6a3d3c4c7461",
-                "resourcePath": "objects\\obj_Finger\\obj_Finger.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "7057aa36-dab9-4d40-ac86-2d42a0d29ec3",
             "Value": {
                 "id": "54b151b8-46d1-4d1a-8e17-9a6466cb8640",
@@ -435,14 +427,6 @@
             "Value": {
                 "id": "3ac2cd68-570f-4335-bd1e-1720555bafe3",
                 "resourcePath": "objects\\BillyClicker\\BillyClicker.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "ec2f4a86-83d7-431c-acaf-384a13398209",
-            "Value": {
-                "id": "98eeb01a-abc4-4c8e-a306-4f1428d6d45e",
-                "resourcePath": "objects\\obj_LatexGlove\\obj_LatexGlove.yy",
                 "resourceType": "GMObject"
             }
         },

@@ -79,6 +79,22 @@
             }
         },
         {
+            "Key": "1ac5e2dd-6820-49d3-8372-a3288d9833dd",
+            "Value": {
+                "id": "fc35be56-99e5-4c00-b83c-490017cd1d56",
+                "resourcePath": "objects\\obj_billy4\\obj_billy4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1d843be1-7da3-422a-989e-475fba37c0f6",
+            "Value": {
+                "id": "52b43189-d4dc-4f72-8ff4-713d8c9bdec8",
+                "resourcePath": "objects\\obj_billyshirts\\obj_billyshirts.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1e223e7a-9eb2-45c1-9139-e4f4eed4f364",
             "Value": {
                 "id": "df041c26-6070-4fed-bce5-e47537e34be8",
@@ -359,6 +375,14 @@
             }
         },
         {
+            "Key": "ba45324f-d4d4-4fa8-9cba-b40af9430db4",
+            "Value": {
+                "id": "ae0e22d5-51c3-461f-a6bc-4f1307bd406f",
+                "resourcePath": "objects\\obj_billyunderpants\\obj_billyunderpants.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c7713fd0-0dbf-4675-b6ff-b86f022ffe4a",
             "Value": {
                 "id": "cb3ffe98-6ad2-4de2-b531-205db5e49a52",
@@ -452,6 +476,14 @@
                 "id": "ded83fe2-2df6-4210-a3b4-1e28c18564ac",
                 "resourcePath": "sprites\\spr_start\\spr_start.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f1c5b52f-3c17-4932-a0cf-a52b194c298b",
+            "Value": {
+                "id": "2ffda9af-3222-4dcc-a72b-45ae921111ea",
+                "resourcePath": "objects\\obj_billypants\\obj_billypants.yy",
+                "resourceType": "GMObject"
             }
         },
         {

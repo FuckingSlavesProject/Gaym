@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "889bc85c-cccc-4164-a0c8-b95d7e8cccbc",
+            "Value": {
+                "id": "57a10438-92ee-4204-a521-c87e00277cc6",
+                "resourcePath": "sprites\\spr_Up33\\spr_Up33.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "898b8287-3301-4d5d-9f44-941dc968223e",
             "Value": {
                 "id": "f7ad1dcb-b5ed-455a-afb7-a79a14e1e075",

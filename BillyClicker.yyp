@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "80121ead-6193-44e7-8afc-6d0708f61c1b",
+            "Value": {
+                "id": "f87bfa8a-9dd9-402f-88bb-c50896ffbc04",
+                "resourcePath": "views\\80121ead-6193-44e7-8afc-6d0708f61c1b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "80cc7f32-fcad-4f12-8ea8-3815b7a26108",
             "Value": {
                 "id": "900b986e-470b-4525-8bc6-d3dce23c30f1",
@@ -311,6 +319,14 @@
             }
         },
         {
+            "Key": "9b10f89a-d95a-4c32-bdf9-3a1f58f886af",
+            "Value": {
+                "id": "a73a684f-090d-4c2a-bbdf-8fd9385488cf",
+                "resourcePath": "views\\9b10f89a-d95a-4c32-bdf9-3a1f58f886af.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "9fd4b520-e5e2-4e95-a7d1-6e978648f074",
             "Value": {
                 "id": "40dad0b5-aa54-4c04-b3fa-90be8199655e",
@@ -351,6 +367,14 @@
             }
         },
         {
+            "Key": "ab36ff01-1469-4b4f-9fb7-75b5ce491e9d",
+            "Value": {
+                "id": "f02e72ac-880e-4309-8bcd-4060b4613c7a",
+                "resourcePath": "views\\ab36ff01-1469-4b4f-9fb7-75b5ce491e9d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b1d76de1-d700-4f1e-8255-88cacc8e3128",
             "Value": {
                 "id": "e5724756-427f-4307-81fe-da20a5f0c441",
@@ -383,6 +407,14 @@
             }
         },
         {
+            "Key": "bb66aae4-f976-43de-a2fa-a353c30b5ad2",
+            "Value": {
+                "id": "17a70e40-d18f-403f-9314-b7409a7b82bc",
+                "resourcePath": "views\\bb66aae4-f976-43de-a2fa-a353c30b5ad2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "c7713fd0-0dbf-4675-b6ff-b86f022ffe4a",
             "Value": {
                 "id": "cb3ffe98-6ad2-4de2-b531-205db5e49a52",
@@ -404,6 +436,14 @@
                 "id": "4886fd0f-d3b9-41b7-81c7-a4907864db2d",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ccf0f530-5cd6-4aca-8f2b-52ab69490b18",
+            "Value": {
+                "id": "be1aadd9-e8f2-45a4-9ff5-4e861583979c",
+                "resourcePath": "views\\ccf0f530-5cd6-4aca-8f2b-52ab69490b18.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

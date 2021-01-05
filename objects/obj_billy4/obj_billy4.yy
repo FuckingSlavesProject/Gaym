@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_billy4",
     "eventList": [
-        
+        {
+            "id": "5e4793cc-cd16-472c-a8c7-7acf19318307",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "1ac5e2dd-6820-49d3-8372-a3288d9833dd"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

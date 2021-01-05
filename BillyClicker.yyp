@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "1dbb8210-4f3b-4331-8373-b601ec5644cd",
+            "Value": {
+                "id": "608b4149-a521-4209-8831-e1f0eaafff1f",
+                "resourcePath": "sprites\\spr_Up4\\spr_Up4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1e223e7a-9eb2-45c1-9139-e4f4eed4f364",
             "Value": {
                 "id": "df041c26-6070-4fed-bce5-e47537e34be8",
@@ -508,14 +516,6 @@
                 "id": "3ba727ff-965d-46fc-8696-eae439f9a32e",
                 "resourcePath": "sprites\\spr_startAnim\\spr_startAnim.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e8acb26c-d24f-40d0-8872-410b10091bdc",
-            "Value": {
-                "id": "3ac2cd68-570f-4335-bd1e-1720555bafe3",
-                "resourcePath": "objects\\BillyClicker\\BillyClicker.yy",
-                "resourceType": "GMObject"
             }
         },
         {

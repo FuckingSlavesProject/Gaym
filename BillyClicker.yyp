@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "050ff6db-72e3-426d-a8d8-977beafec39a",
+            "Value": {
+                "id": "ff030af9-ebea-4c18-907d-9d96abff0748",
+                "resourcePath": "sprites\\spr_billypants\\spr_billypants.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0af73986-7af1-438d-8eb1-e1e00ae36ffb",
             "Value": {
                 "id": "9903efda-bc5e-4774-8348-ed9643627963",
@@ -164,6 +172,14 @@
                 "id": "403ebe07-5f00-46d4-9902-6a3d3c4c7461",
                 "resourcePath": "objects\\obj_Finger\\obj_Finger.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7057aa36-dab9-4d40-ac86-2d42a0d29ec3",
+            "Value": {
+                "id": "54b151b8-46d1-4d1a-8e17-9a6466cb8640",
+                "resourcePath": "sprites\\spr_billyshirts\\spr_billyshirts.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -343,6 +359,14 @@
             }
         },
         {
+            "Key": "c7713fd0-0dbf-4675-b6ff-b86f022ffe4a",
+            "Value": {
+                "id": "cb3ffe98-6ad2-4de2-b531-205db5e49a52",
+                "resourcePath": "sprites\\spr_billy4\\spr_billy4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c8ad6b99-9511-48b9-96bd-b38948556ffc",
             "Value": {
                 "id": "dc39f965-f6be-4833-b5f7-a56b5907c262",
@@ -427,6 +451,14 @@
             "Value": {
                 "id": "ded83fe2-2df6-4210-a3b4-1e28c18564ac",
                 "resourcePath": "sprites\\spr_start\\spr_start.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f1d83b8b-074c-4e78-b70f-0e3aefb54f17",
+            "Value": {
+                "id": "edba26cc-e50b-47b5-87ca-5be7d9fd2b3e",
+                "resourcePath": "sprites\\spr_billyunderpants\\spr_billyunderpants.yy",
                 "resourceType": "GMSprite"
             }
         },

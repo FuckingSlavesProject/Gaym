@@ -5,13 +5,33 @@
     "name": "obj_play",
     "eventList": [
         {
-            "id": "eeac157b-91d5-4c1e-8dca-161a5cb9dd3a",
+            "id": "d5bee410-8777-4df8-87cf-f8a67897508b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "b1a6190f-ce84-4a89-99da-9c27f2d05b26"
+        },
+        {
+            "id": "ab7916b8-8fda-4731-97c0-70deed0f375e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
             "eventtype": 6,
+            "m_owner": "b1a6190f-ce84-4a89-99da-9c27f2d05b26"
+        },
+        {
+            "id": "b7634b4f-c345-44c1-8718-732aeffd2b5f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
             "m_owner": "b1a6190f-ce84-4a89-99da-9c27f2d05b26"
         }
     ],

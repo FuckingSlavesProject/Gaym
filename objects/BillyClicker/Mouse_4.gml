@@ -15,7 +15,7 @@ with(ClickSystem) {
 
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
-/// @DnDHash : 607E8FDB
+/// @DnDHash : 2F0059DF
 /// @DnDArgument : "spriteind" "spr_BillyPressed"
 /// @DnDSaveInfo : "spriteind" "54561445-acc2-49b6-9d67-5edc71946854"
 sprite_index = spr_BillyPressed;

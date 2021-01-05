@@ -1,7 +1,6 @@
-/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 30143532
-/// @DnDArgument : "spriteind" "spr_Billy"
-/// @DnDSaveInfo : "spriteind" "898b8287-3301-4d5d-9f44-941dc968223e"
-sprite_index = spr_Billy;
-image_index = 0;
+/// @DnDHash : 1B45AB4F
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "image_index"
+image_index = 1;

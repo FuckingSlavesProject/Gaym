@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "784d31ef-4949-4544-98fb-a1b6ec765422",
+            "Value": {
+                "id": "fcce9613-4671-4a7f-884d-592e842e066a",
+                "resourcePath": "objects\\obj_FonUpgraydov\\obj_FonUpgraydov.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7c098bc7-7fd2-4748-8045-1c47d926b3de",
             "Value": {
                 "id": "f0b0626c-6af7-4dd3-a573-bc6b8923899a",
@@ -239,6 +247,14 @@
             }
         },
         {
+            "Key": "a7cf6382-c487-43c9-933a-6a32e24ef25e",
+            "Value": {
+                "id": "610122c4-7239-428d-9323-3778b90451b3",
+                "resourcePath": "sprites\\spr_FonUpgraydov\\spr_FonUpgraydov.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "cb0204e6-f264-4e19-9a35-93b66924f889",
@@ -306,7 +322,7 @@
             "Key": "e474a375-11c8-4850-96c9-fda4cee6df79",
             "Value": {
                 "id": "3ba727ff-965d-46fc-8696-eae439f9a32e",
-                "resourcePath": "sprites\\spr_start\\spr_start.yy",
+                "resourcePath": "sprites\\spr_startAnim\\spr_startAnim.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -316,6 +332,22 @@
                 "id": "3ac2cd68-570f-4335-bd1e-1720555bafe3",
                 "resourcePath": "objects\\BillyClicker\\BillyClicker.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ec2f4a86-83d7-431c-acaf-384a13398209",
+            "Value": {
+                "id": "98eeb01a-abc4-4c8e-a306-4f1428d6d45e",
+                "resourcePath": "objects\\obj_LatexGlove\\obj_LatexGlove.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ee4e20af-7f0e-40a8-918a-c1ab095bd930",
+            "Value": {
+                "id": "ded83fe2-2df6-4210-a3b4-1e28c18564ac",
+                "resourcePath": "sprites\\spr_start\\spr_start.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

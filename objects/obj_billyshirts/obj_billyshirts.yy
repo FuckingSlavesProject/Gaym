@@ -1,8 +1,8 @@
 {
-    "id": "6c88bcb6-f1b0-495a-ad32-ceb0a5b73aef",
+    "id": "1d843be1-7da3-422a-989e-475fba37c0f6",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object15",
+    "name": "obj_billyshirts",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "7057aa36-dab9-4d40-ac86-2d42a0d29ec3",
     "visible": true
 }

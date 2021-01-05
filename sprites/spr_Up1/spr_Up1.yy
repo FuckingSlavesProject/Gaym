@@ -1,5 +1,5 @@
 {
-    "id": "6a26bd18-294f-4c75-becc-d610076b3258",
+    "id": "1fcf03cf-190e-4da2-a927-35da0d8967f4",
     "modelName": "GMSprite",
     "mvc": "1.12",
     "name": "spr_Up1",
@@ -16,24 +16,24 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "47c21bff-0f31-47f3-8cb0-e086f761122e",
+            "id": "31f8bd88-f46c-472c-909b-90b05e0c6d05",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
-            "SpriteId": "6a26bd18-294f-4c75-becc-d610076b3258",
+            "SpriteId": "1fcf03cf-190e-4da2-a927-35da0d8967f4",
             "compositeImage": {
-                "id": "3dfcd48a-97dc-4bfe-bcd4-3e67f5b0a3ae",
+                "id": "250ffe86-705f-4eb4-9230-387e65b36f42",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "47c21bff-0f31-47f3-8cb0-e086f761122e",
+                "FrameId": "31f8bd88-f46c-472c-909b-90b05e0c6d05",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "612e73c7-05bd-42be-9c08-744f0997175d",
+                    "id": "99a6d3d5-276b-480e-8fd7-f1d7d68a55d9",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "47c21bff-0f31-47f3-8cb0-e086f761122e",
-                    "LayerId": "d076b633-9de1-4078-ac0d-70bc0500994d"
+                    "FrameId": "31f8bd88-f46c-472c-909b-90b05e0c6d05",
+                    "LayerId": "5aa40023-1fc2-46a3-a5d1-0b9416ebca22"
                 }
             ]
         }
@@ -43,10 +43,10 @@
     "height": 53,
     "layers": [
         {
-            "id": "d076b633-9de1-4078-ac0d-70bc0500994d",
+            "id": "5aa40023-1fc2-46a3-a5d1-0b9416ebca22",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "6a26bd18-294f-4c75-becc-d610076b3258",
+            "SpriteId": "1fcf03cf-190e-4da2-a927-35da0d8967f4",
             "blendMode": 0,
             "isLocked": false,
             "name": "default",
@@ -75,8 +75,8 @@
         4290230199,
         4287993237,
         4280556782,
-        4278252287,
-        4283540992,
+        4287678192,
+        4287678192,
         4293963264,
         4287770926,
         4287365357,

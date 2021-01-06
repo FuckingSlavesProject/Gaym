@@ -21,6 +21,14 @@ with(ClickSystem) {
 		if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
 		__dnd_score += real(-10000);
 	
+		/// @DnDAction : YoYo Games.Audio.Play_Audio
+		/// @DnDVersion : 1
+		/// @DnDHash : 43AD7378
+		/// @DnDParent : 32397472
+		/// @DnDArgument : "soundid" "snd_anal"
+		/// @DnDSaveInfo : "soundid" "c82c7004-b0a8-4f23-a28b-c148621a1173"
+		audio_play_sound(snd_anal, 0, 0);
+	
 		/// @DnDAction : YoYo Games.Instances.Set_Alarm
 		/// @DnDVersion : 1
 		/// @DnDHash : 0A49193A

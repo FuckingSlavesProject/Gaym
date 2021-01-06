@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 1B174430
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "newShirtsLeave"
+newShirtsLeave = 1;
+
 /// @DnDAction : YoYo Games.Common.Apply_To
 /// @DnDVersion : 1
 /// @DnDHash : 2B0CA771
@@ -28,6 +35,16 @@ with(ClickSystem) {
 		/// @DnDArgument : "soundid" "snd_that_turns_me_on"
 		/// @DnDSaveInfo : "soundid" "9de976bb-edbd-41e2-9e08-ee4aa44783f9"
 		audio_play_sound(snd_that_turns_me_on, 0, 0);
+	
+		/// @DnDAction : YoYo Games.Paths.Start_Path
+		/// @DnDVersion : 1.1
+		/// @DnDHash : 4DDC4497
+		/// @DnDApplyTo : 1d843be1-7da3-422a-989e-475fba37c0f6
+		/// @DnDParent : 6C164CE5
+		/// @DnDArgument : "path" "path_shirts"
+		/// @DnDArgument : "speed" "3"
+		/// @DnDSaveInfo : "path" "3e546abc-5a97-4b04-9cc3-09072d130d32"
+		with(obj_billyshirts) path_start(path_shirts, 3, path_action_stop, false);
 	
 		/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 		/// @DnDVersion : 1

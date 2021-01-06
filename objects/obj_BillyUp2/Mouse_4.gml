@@ -60,6 +60,18 @@ if(Up1isFucked == 1)
 			/// @DnDApplyTo : 40fd392e-2170-4835-97b6-89088b6c1c1b
 			/// @DnDParent : 6C164CE5
 			with(obj_1m) instance_destroy();
+		
+			/// @DnDAction : YoYo Games.Common.Variable
+			/// @DnDVersion : 1
+			/// @DnDHash : 2149CDB9
+			/// @DnDApplyTo : 8c72af87-839a-49ce-bbda-1fe878071d27
+			/// @DnDParent : 6C164CE5
+			/// @DnDArgument : "expr" "1"
+			/// @DnDArgument : "var" "Up2isFucked"
+			with(obj_BillyUp3) {
+			Up2isFucked = 1;
+			
+			}
 		}
 	}
 }

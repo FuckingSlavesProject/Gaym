@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "3e546abc-5a97-4b04-9cc3-09072d130d32",
+            "Value": {
+                "id": "67b9ae91-9022-4be1-ba9e-f0a65b9187fc",
+                "resourcePath": "paths\\path_shirts\\path_shirts.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "47df6423-a83d-4e48-87a6-a66254888ece",
             "Value": {
                 "id": "7cf7ae0c-1891-4cfd-b398-3b1cabf548c3",
@@ -564,6 +572,14 @@
                 "id": "94d4d1bc-9ad0-4549-8c3b-0fa70fbd59e1",
                 "resourcePath": "views\\a9903614-28ce-4fc8-9527-3dd8665f9017.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "aaed713d-eccd-4d6b-be70-00fd4eb14233",
+            "Value": {
+                "id": "cdb01736-0597-4388-8bc6-c71a72e3e836",
+                "resourcePath": "paths\\path_underpants\\path_underpants.yy",
+                "resourceType": "GMPath"
             }
         },
         {

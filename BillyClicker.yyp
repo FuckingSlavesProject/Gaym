@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "1d2580d0-668e-41fe-820e-31b2597888bb",
+            "Value": {
+                "id": "77314952-ecf0-4964-b588-b7078142eafb",
+                "resourcePath": "paths\\path_pants\\path_pants.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "1d843be1-7da3-422a-989e-475fba37c0f6",
             "Value": {
                 "id": "52b43189-d4dc-4f72-8ff4-713d8c9bdec8",

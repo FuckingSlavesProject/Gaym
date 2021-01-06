@@ -27,7 +27,11 @@
         "1893f59d-2b43-41af-a0e8-dfcce144aa3e",
         "7057aa36-dab9-4d40-ac86-2d42a0d29ec3",
         "f1d83b8b-074c-4e78-b70f-0e3aefb54f17",
-        "050ff6db-72e3-426d-a8d8-977beafec39a"
+        "050ff6db-72e3-426d-a8d8-977beafec39a",
+        "26cdd933-fe56-41ee-ae77-f5ddd3c8661c",
+        "82e5ad1f-ede4-428c-9f84-aa7ba3bdcbf6",
+        "a0e91689-1610-42fe-8ad1-0624a712de50",
+        "82a6ae6a-6496-4dc7-854e-71e4ca04a2cc"
     ],
     "filterType": "GMSprite",
     "folderName": "rm_main",

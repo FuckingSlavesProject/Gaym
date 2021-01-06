@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0072c701-9258-4d8e-90fc-b88ae5da82bd",
+            "Value": {
+                "id": "ad69a2cb-0dca-4ebb-a697-05a3f2f4cd0d",
+                "resourcePath": "sounds\\snd_dungeon_master\\snd_dungeon_master.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "016c5b3a-bed7-4396-a5e5-85eab2660dcd",
             "Value": {
                 "id": "bca896db-da45-44b6-93d3-d5783d2e0871",

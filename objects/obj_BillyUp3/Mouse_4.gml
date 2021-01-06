@@ -36,6 +36,16 @@ with(ClickSystem) {
 		/// @DnDSaveInfo : "soundid" "e35e765f-d290-4987-bead-db9614112889"
 		audio_play_sound(snd_woo, 0, 0);
 	
+		/// @DnDAction : YoYo Games.Paths.Start_Path
+		/// @DnDVersion : 1.1
+		/// @DnDHash : 1653E30B
+		/// @DnDApplyTo : ba45324f-d4d4-4fa8-9cba-b40af9430db4
+		/// @DnDParent : 76CBB3EF
+		/// @DnDArgument : "path" "path_underpants"
+		/// @DnDArgument : "speed" "3"
+		/// @DnDSaveInfo : "path" "aaed713d-eccd-4d6b-be70-00fd4eb14233"
+		with(obj_billyunderpants) path_start(path_underpants, 3, path_action_stop, false);
+	
 		/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 		/// @DnDVersion : 1
 		/// @DnDHash : 1B72A990

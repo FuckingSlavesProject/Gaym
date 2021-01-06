@@ -3,10 +3,10 @@
 /// @DnDHash : 5371C2AA
 /// @DnDApplyTo : f3fdbb1d-39dd-4cea-a92e-26e617a98879
 /// @DnDArgument : "op" "4"
-/// @DnDArgument : "value" "20000"
+/// @DnDArgument : "value" "200000"
 with(ClickSystem) {
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-var l5371C2AA_0 = __dnd_score >= 20000;
+var l5371C2AA_0 = __dnd_score >= 200000;
 }
 if(l5371C2AA_0)
 {

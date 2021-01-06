@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 1B174430
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "newShirtsLeave"
+newShirtsLeave = 1;
+
 /// @DnDAction : YoYo Games.Common.Apply_To
 /// @DnDVersion : 1
 /// @DnDHash : 2B0CA771

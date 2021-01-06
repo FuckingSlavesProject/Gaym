@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "026cd5a0-dd2c-4a74-ba96-5efb82600fac",
+            "Value": {
+                "id": "5807dab0-3ff1-4d36-af7a-f52537ed87e1",
+                "resourcePath": "sprites\\spr_Up8Locked\\spr_Up8Locked.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "050ff6db-72e3-426d-a8d8-977beafec39a",
             "Value": {
                 "id": "ff030af9-ebea-4c18-907d-9d96abff0748",
@@ -60,6 +68,14 @@
                 "id": "a96737cb-1d1f-4df0-b535-4bc0b5db13bf",
                 "resourcePath": "views\\0bad0a67-68f9-431f-881f-c7d340e41351.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0d5ce7f4-a274-4789-ad9a-844103adddf2",
+            "Value": {
+                "id": "3b526853-b1ae-4e9e-99ed-fb6540972299",
+                "resourcePath": "sprites\\spr_Up5Locked\\spr_Up5Locked.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -135,6 +151,14 @@
             }
         },
         {
+            "Key": "2a6857b3-9055-407a-a518-c1d8aa566c27",
+            "Value": {
+                "id": "0b86dab9-9daa-40e4-be0c-118d075a27ee",
+                "resourcePath": "sprites\\spr_Up2Locked\\spr_Up2Locked.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
             "Value": {
                 "id": "989e0965-e7de-4f29-aa31-4184db44fb9e",
@@ -203,6 +227,14 @@
             "Value": {
                 "id": "9d18643b-3e86-4d9f-8d30-7d7a55f1aca1",
                 "resourcePath": "sprites\\spr_Up7\\spr_Up7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "68def860-5a04-43ea-9f89-43c74e65537a",
+            "Value": {
+                "id": "632e3e30-bc3c-42e0-bb74-32fe45a0f176",
+                "resourcePath": "sprites\\spr_Up1Locked\\spr_Up1Locked.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -447,11 +479,27 @@
             }
         },
         {
+            "Key": "bb0fab9d-23cb-421d-9ef6-871400458f60",
+            "Value": {
+                "id": "5f5e4f2b-28f5-4019-9ef5-9378ce2eb1e2",
+                "resourcePath": "sprites\\spr_Up7Locked\\spr_Up7Locked.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bb66aae4-f976-43de-a2fa-a353c30b5ad2",
             "Value": {
                 "id": "17a70e40-d18f-403f-9314-b7409a7b82bc",
                 "resourcePath": "views\\bb66aae4-f976-43de-a2fa-a353c30b5ad2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "be52f11e-60c8-4e6f-94bc-13e1139a0a55",
+            "Value": {
+                "id": "310ea0a2-dde2-4815-b779-dcba6e3ae873",
+                "resourcePath": "sprites\\spr_Up33Locked\\spr_Up33Locked.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -508,6 +556,14 @@
                 "id": "05c214e8-bd70-4387-954f-955b13f311c4",
                 "resourcePath": "views\\d497f2da-51f5-4a1f-ba91-1f7f9e700ed4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d83ced28-52d6-4467-bd03-27cc2e0f36ac",
+            "Value": {
+                "id": "1904e33c-075c-4418-919b-49e047f429c9",
+                "resourcePath": "sprites\\spr_Up6Locked\\spr_Up6Locked.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -619,6 +675,14 @@
             "Value": {
                 "id": "f05fa339-602f-4648-8b8c-ac1c01e11383",
                 "resourcePath": "sprites\\spr_Up2\\spr_Up2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ff5a5662-780a-427c-9cf7-a2c76b514708",
+            "Value": {
+                "id": "8bb3a134-4b0a-491b-9cc5-cc2b12f4eaf4",
+                "resourcePath": "sprites\\spr_Up4Locked\\spr_Up4Locked.yy",
                 "resourceType": "GMSprite"
             }
         }

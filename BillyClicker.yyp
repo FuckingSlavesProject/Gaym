@@ -759,6 +759,14 @@
             }
         },
         {
+            "Key": "e35e765f-d290-4987-bead-db9614112889",
+            "Value": {
+                "id": "6e2ecf34-68fd-4cf1-a82f-04be0236c342",
+                "resourcePath": "sounds\\snd_woo\\snd_woo.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "bcedcca1-d3f6-4262-837a-cc9330cb80e9",

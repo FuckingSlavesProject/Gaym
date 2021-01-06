@@ -239,14 +239,6 @@
             }
         },
         {
-            "Key": "4a827190-827b-4fef-a2ff-28bb4d88a3f0",
-            "Value": {
-                "id": "21e37d41-43f7-4ef6-93a8-e155b1f58b36",
-                "resourcePath": "objects\\obj_BillyUp4\\obj_BillyUp4.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "50dba595-2e7c-4a07-99dc-859a5c74b2e8",
             "Value": {
                 "id": "ddde2b9b-1f44-44f0-aa69-7dae6e536cd9",
@@ -404,14 +396,6 @@
                 "id": "501915e9-b888-4a0f-991a-0d97ac3642f9",
                 "resourcePath": "sounds\\snd_stick_your_finger\\snd_stick_your_finger.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "82a6ae6a-6496-4dc7-854e-71e4ca04a2cc",
-            "Value": {
-                "id": "1c59980c-a182-49e1-9ed4-6e3c9e32bc1a",
-                "resourcePath": "sprites\\spr_BillyUp4\\spr_BillyUp4.yy",
-                "resourceType": "GMSprite"
             }
         },
         {

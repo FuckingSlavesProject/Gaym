@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_BillyUp1",
     "eventList": [
-        
+        {
+            "id": "f13807d7-18ed-4334-9c0e-1512ebd8850f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "288dabfe-9151-43d6-8e43-2bad764aa44f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

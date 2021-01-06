@@ -45,5 +45,12 @@ with(ClickSystem) {
 		/// @DnDApplyTo : 288dabfe-9151-43d6-8e43-2bad764aa44f
 		/// @DnDParent : 76CBB3EF
 		with(obj_BillyUp1) instance_destroy();
+	
+		/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+		/// @DnDVersion : 1
+		/// @DnDHash : 32A4E2CD
+		/// @DnDApplyTo : c052431a-6212-4958-8119-22b98fa73ab4
+		/// @DnDParent : 76CBB3EF
+		with(obj_300k) instance_destroy();
 	}
 }

@@ -51,6 +51,18 @@ with(ClickSystem) {
 		/// @DnDHash : 32A4E2CD
 		/// @DnDApplyTo : c052431a-6212-4958-8119-22b98fa73ab4
 		/// @DnDParent : 76CBB3EF
-		with(obj_300k) instance_destroy();
+		with(obj_500k) instance_destroy();
+	
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 4883EF9E
+		/// @DnDApplyTo : 02d0e9e1-6083-4db2-9355-927680a585da
+		/// @DnDParent : 76CBB3EF
+		/// @DnDArgument : "expr" "1"
+		/// @DnDArgument : "var" "Up1isFucked"
+		with(obj_BillyUp2) {
+		Up1isFucked = 1;
+		
+		}
 	}
 }

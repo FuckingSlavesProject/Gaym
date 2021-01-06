@@ -32,7 +32,8 @@
         "82e5ad1f-ede4-428c-9f84-aa7ba3bdcbf6",
         "92d9be77-74ed-4ce7-87c9-c33aef8a63b2",
         "ac2f201d-5206-4f10-9fd4-e1480f18e563",
-        "dd3f5abe-e600-4060-bfd5-087c58aebc85"
+        "dd3f5abe-e600-4060-bfd5-087c58aebc85",
+        "b74f2d57-0fdd-440c-b49b-c1904cf6168e"
     ],
     "filterType": "GMSprite",
     "folderName": "rm_main",

@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_billypants",
     "eventList": [
-        
+        {
+            "id": "fd6c249f-cd9e-491e-91ac-feb6209807ad",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "f1c5b52f-3c17-4932-a0cf-a52b194c298b"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

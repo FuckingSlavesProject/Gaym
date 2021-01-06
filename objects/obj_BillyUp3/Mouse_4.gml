@@ -15,18 +15,18 @@ with(ClickSystem) {
 	/// @DnDHash : 76CBB3EF
 	/// @DnDParent : 6C95148F
 	/// @DnDArgument : "op" "4"
-	/// @DnDArgument : "value" "500000"
+	/// @DnDArgument : "value" "3000000"
 	if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-	if(__dnd_score >= 500000)
+	if(__dnd_score >= 3000000)
 	{
 		/// @DnDAction : YoYo Games.Instance Variables.Set_Score
 		/// @DnDVersion : 1
 		/// @DnDHash : 5BEDCFC7
 		/// @DnDParent : 76CBB3EF
-		/// @DnDArgument : "score" "-500000"
+		/// @DnDArgument : "score" "-3000000"
 		/// @DnDArgument : "score_relative" "1"
 		if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-		__dnd_score += real(-500000);
+		__dnd_score += real(-3000000);
 	
 		/// @DnDAction : YoYo Games.Audio.Play_Audio
 		/// @DnDVersion : 1

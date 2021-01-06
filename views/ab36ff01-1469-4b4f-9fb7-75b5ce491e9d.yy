@@ -21,7 +21,10 @@
         "b92a565a-13a4-4879-8e39-55af3fe039ff",
         "288dabfe-9151-43d6-8e43-2bad764aa44f",
         "02d0e9e1-6083-4db2-9355-927680a585da",
-        "8c72af87-839a-49ce-bbda-1fe878071d27"
+        "8c72af87-839a-49ce-bbda-1fe878071d27",
+        "c052431a-6212-4958-8119-22b98fa73ab4",
+        "40fd392e-2170-4835-97b6-89088b6c1c1b",
+        "05ecdbac-18ea-4114-94d7-3d4698883fd0"
     ],
     "filterType": "GMObject",
     "folderName": "rm_main",

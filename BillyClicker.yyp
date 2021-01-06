@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "752a1389-099c-447c-b8bb-531a5bb6f2e5",
+            "Value": {
+                "id": "e06aaca7-2137-4b0d-a84a-afe437ad97cd",
+                "resourcePath": "sounds\\snd_cumming\\snd_cumming.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "65a15d9f-1f6a-4d65-afcd-3bfb2bcf5f03",
@@ -511,6 +519,14 @@
             }
         },
         {
+            "Key": "9de976bb-edbd-41e2-9e08-ee4aa44783f9",
+            "Value": {
+                "id": "e7f4891f-01f5-4433-b489-9f14ed3abec7",
+                "resourcePath": "sounds\\snd_that_turns_me_on\\snd_that_turns_me_on.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "9fd4b520-e5e2-4e95-a7d1-6e978648f074",
             "Value": {
                 "id": "40dad0b5-aa54-4c04-b3fa-90be8199655e",
@@ -684,6 +700,14 @@
                 "id": "be1aadd9-e8f2-45a4-9ff5-4e861583979c",
                 "resourcePath": "views\\ccf0f530-5cd6-4aca-8f2b-52ab69490b18.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d3456cad-f26d-4daa-baa3-b6d3c2424323",
+            "Value": {
+                "id": "a20bfc5f-79b0-49b3-b37e-dfb78ae8b711",
+                "resourcePath": "sounds\\snd_fat_cock\\snd_fat_cock.yy",
+                "resourceType": "GMSound"
             }
         },
         {

@@ -7,7 +7,14 @@
     "hsnap": 0,
     "kind": 0,
     "points": [
-        
+        {
+            "id": "6e57c1ee-34f4-44b0-a1a8-48df3fd1c842",
+            "modelName": "GMPathPoint",
+            "mvc": "1.0",
+            "x": 75,
+            "y": -8,
+            "speed": 100
+        }
     ],
     "precision": 4,
     "vsnap": 0
